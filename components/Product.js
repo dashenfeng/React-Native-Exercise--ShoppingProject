@@ -13,19 +13,19 @@ const forkFetch = () => {
     const data = [
       {
         id: 1,
-        count: 2,
+        count: 1,
         name: "apple",
         price: 10,
       },
       {
         id: 2,
-        count: 2,
+        count: 1,
         name: "orange",
         price: 20,
       },
       {
         id: 3,
-        count: 2,
+        count: 1,
         name: "watermelon",
         price: 30,
       },
